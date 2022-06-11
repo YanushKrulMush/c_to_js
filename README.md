@@ -1,1 +1,1 @@
-# js_translator
+# C to JavaScript translator
