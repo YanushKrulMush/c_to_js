@@ -6,6 +6,8 @@ let x=1
 let y=2
 let z=1
 x = 2
+x++
+x--
 if (20 > 18){
 x = y
 y = x

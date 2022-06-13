@@ -7,7 +7,8 @@ int main() {
   int y = 2;
   int z = 1;
   x = 2;
-
+  x++;
+  x--;
   if(20 > 18) {
     x = y;
     y = x;
